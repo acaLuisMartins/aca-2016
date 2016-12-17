@@ -97,5 +97,7 @@ function escreverArray_v3($a, $separador=", "){
     return $ret;
 }//escreverArray_v1
 
+Esta alteração foi feita
+
 
 ?>
